@@ -1,2 +1,3 @@
-# LoxBerry-Plugin-SamplePlugin-V2-PHP
-This is the LoxBerry 0.3.x Sample Plugin for PHP
+ComfoConnect to MQTT Loxberry Plugin
+
+This Loxberry Plugin provides a bridge between an MQTT broker and the Zehnder ComfoConnect LAN C Interface.
